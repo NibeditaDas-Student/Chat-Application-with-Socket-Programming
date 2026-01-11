@@ -1,10 +1,10 @@
-# 💬 Java Client–Server Chat Application
+# Java Client–Server Chat Application
 
 A simple **Client–Server Chat Application** built using **Java Socket Programming**, demonstrating real-time text communication between multiple clients and a server over TCP/IP.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project implements a basic chat system where:
 
@@ -17,7 +17,7 @@ This project is ideal for understanding **network programming**, **sockets**, an
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Java (JDK 8+)**
 * **Socket Programming (TCP)**
@@ -26,7 +26,7 @@ This project is ideal for understanding **network programming**, **sockets**, an
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ChatApplication/
@@ -45,7 +45,7 @@ ChatApplication/
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. **Server starts first** and listens on a specific port.
 2. **Clients connect** to the server using the server IP and port.
@@ -55,7 +55,7 @@ ChatApplication/
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 ### 1️⃣ Prerequisites
 
@@ -81,11 +81,11 @@ java ChatApplication.serverr.ServerMain
 java ChatApplication.client.ClientMain
 ```
 
-👉 Run multiple clients to simulate a real chat environment.
+ Run multiple clients to simulate a real chat environment.
 
 ---
 
-## ✨ Features
+## Features
 
 * Real-time client-server communication
 * Multiple client handling
@@ -94,7 +94,7 @@ java ChatApplication.client.ClientMain
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 * Understanding **Java Sockets**
 * Client–Server architecture
@@ -103,26 +103,12 @@ java ChatApplication.client.ClientMain
 
 ---
 
-## 🚀 Future Enhancements
-
-* GUI using **JavaFX / Swing**
-* User authentication
-* Message timestamps
-* File sharing support
-* Encryption for secure communication
-
----
-
-## 👩‍💻 Author
+## Author
 
 **Nibedita Das**
 
 ---
 
-## 📄 License
+## License
 
 This project is for **educational purposes** and open for learning and modification.
-
----
-
-⭐ If you find this project useful, don’t forget to star the repository!
